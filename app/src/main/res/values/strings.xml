@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Custom Compass Canvas</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="norte">N</string>
+    <string name="este">E</string>
+    <string name="sur">S</string>
+    <string name="oeste">W</string>
+</resources>
